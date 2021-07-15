@@ -2,20 +2,6 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/8pso4plx2gey5ww2?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ajs-hw-11-2-symbols-generators)
 
-## Описание
-
-В этом задании предполагается, что все персонажи содержат следующий набор полей:
-```javascript
-const char = {
-  name: 'Лучник',
-  type: 'Bowman',
-  health: 50,
-  level: 1,
-  attack: 40,
-  defence: 10
-}
-```
-
 ## Символы и генераторы
 
 ### Легенда
